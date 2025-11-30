@@ -94,7 +94,7 @@ int main(int argc, char *argv[]) {
         if (marco_fisico != -1) {
             marcos[marco_fisico].referencia = 1;
         } else {
-            estado = "FALLO"
+            estado = "FALLO";
             total_fallos++;
 
             int marco_libre = -1;
