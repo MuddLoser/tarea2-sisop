@@ -1,6 +1,6 @@
 # Parte I. Sincronización con Barrera reutilizable
 
-# Actividad 1: Implementación de la barrera (Monitor) 
+## Actividad 1: Implementación de la barrera (Monitor) 
 
 Se implementa una **barrera reutilizable** en C utilizando únicamente:
 - `pthread_mutex_t` para exclusión mutua.
@@ -49,7 +49,7 @@ Con parametros personalizados:
 
 # Parte II. Simulador simple de Memoria Virtual
 
-# Actividad 1: Simulador de Traducción de Direcciones
+## Actividad 1: Simulador de Traducción de Direcciones
 
 
 ## Compilación y ejecución
