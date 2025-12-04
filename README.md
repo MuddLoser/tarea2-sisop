@@ -46,3 +46,21 @@ Por defecto:
 
 Con parametros personalizados:
 ./main N E
+
+# Parte II. Simulador simple de Memoria Virtual
+
+# Actividad 1: Simulador de Traducción de Direcciones
+
+
+## Compilación y ejecución
+En Linux/WSL:
+
+gcc sim.c -o sim -lm
+
+Solo resultados:
+./sim n_marcos tamano_marco archivo.txt
+
+Completo detalle:
+./sim n_marcos tamano_marco --verbose archivo.txt
+
+El archivo debe encontrarse en la misma carpeta que el programa 
