@@ -33,7 +33,7 @@ La barrera soporta tres operaciones fundamentales:
      2. Incrementa `etapa`.  
      3. Llama a `pthread_cond_broadcast` para despertar a todas las hebras bloqueadas.  
 
-# Actividad 2: Aplicación de verificación
+## Actividad 2: Aplicación de verificación
 
 ## Compilación y ejecución
 En Linux/WSL:
